@@ -55,6 +55,11 @@ I think like a founder:
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/22c55e/demaintech" alt="GitHub Contributions Chart" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=demaintech&theme=tokyonight&hide_border=true" />
 </p>
 
