@@ -55,10 +55,10 @@ I think like a founder:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=140&section=header&text=De%20Main%20—%20Founder%20%26%20Software%20Engineer&fontSize=22&fontColor=22c55e&desc=Fintech%20•%20Financial%20Markets%20•%20Blockchain&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=22c55e&height=90&section=header&text=Founder%20Mindset&fontSize=16&fontColor=0f172a" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0f172a&height=90&section=header&text=Fintech%20%26%20Markets&fontSize=16&fontColor=22c55e" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=22c55e&height=90&section=header&text=Blockchain%20Builder&fontSize=16&fontColor=0f172a" />
 </p>
-
-
 
 
 <p align="center">
