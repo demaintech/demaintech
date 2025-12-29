@@ -55,8 +55,11 @@ I think like a founder:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/22c55e/demaintech" alt="GitHub Contributions Chart" />
+  <img src="https://img.shields.io/badge/Role-Founder%20%26%20Software%20Engineer-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Fintech%20%26%20Financial%20Markets-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech-Blockchain%20%7C%20Mobile%20Apps-22c55e?style=for-the-badge" />
 </p>
+
 
 
 <p align="center">
