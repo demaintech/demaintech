@@ -55,9 +55,11 @@ I think like a founder:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=demaintech&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=demaintech&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/github/followers/demaintech?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/demaintech?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/demaintech?style=for-the-badge" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=demaintech&theme=tokyonight&hide_border=true"/>
