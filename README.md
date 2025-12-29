@@ -55,10 +55,9 @@ I think like a founder:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Founder%20%26%20Software%20Engineer-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Fintech%20%26%20Financial%20Markets-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech-Blockchain%20%7C%20Mobile%20Apps-22c55e?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=140&section=header&text=De%20Main%20—%20Founder%20%26%20Software%20Engineer&fontSize=22&fontColor=22c55e&desc=Fintech%20•%20Financial%20Markets%20•%20Blockchain&descAlign=50&descAlignY=65" />
 </p>
+
 
 
 
